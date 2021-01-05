@@ -11,7 +11,7 @@ $ cd laravel-scraper
 $ composer install
 ```
 
-##. Create and setup .env file
+## Create and setup .env file
 ```
 make a copy of .env.example
 $ copy .env.example .env
